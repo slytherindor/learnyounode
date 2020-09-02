@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "bl": "^4.0.0",
+    "bl": "^4.0.3",
     "learnyounode": "^4.2.1",
     "through2-map": "^3.0.0"
   }
